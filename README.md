@@ -6,4 +6,4 @@ This repository provides the PyTorch implementation of paper From CLIP to DINO: 
 <img src="https://github.com/YuchenLiu98/COMM/blob/main/images/overall.png" width="740px">
 </div>
 
-<center>Overview of our COMM</center>
+<center> Overview of our COMM </center>
