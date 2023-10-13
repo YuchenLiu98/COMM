@@ -13,7 +13,7 @@ The PyTorch implementation of paper From CLIP to DINO: Visual Encoders Shout in 
 
 ## Examples
 <div align=center>
-<img src="https://github.com/YuchenLiu98/COMM/blob/main/images/spot.png" width="740px">
+<img src="https://github.com/YuchenLiu98/COMM/blob/main/images/spot.png" width="540px">
 </div>
 <div align=center>
 <img src="https://github.com/YuchenLiu98/COMM/blob/main/images/rec_case.png" width="740px">
