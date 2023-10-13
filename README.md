@@ -22,7 +22,7 @@ Please cite our paper if the code is helpful to your research.
 }
 ```
 ## Acknowledgement
--. [LLaVA](https://github.com/haotian-liu/LLaVA) and [Shikra](https://github.com/shikras/shikra): The codebase we built upon, which has the amazing multi-modal capabilities!
--. [Vicuna](https://github.com/lm-sys/FastChat): The powerful LLM we used.
--. [DINOv2](https://github.com/facebookresearch/dinov2): Our used vision encoder.
+- [LLaVA](https://github.com/haotian-liu/LLaVA) and [Shikra](https://github.com/shikras/shikra): The codebase we built upon, which has the amazing multi-modal capabilities!
+- [Vicuna](https://github.com/lm-sys/FastChat): The powerful LLM we used.
+- [DINOv2](https://github.com/facebookresearch/dinov2): Our used vision encoder.
 Thanks for their wonderful works.
