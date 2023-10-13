@@ -6,4 +6,4 @@ The PyTorch implementation of paper From CLIP to DINO: Visual Encoders Shout in 
 <img src="https://github.com/YuchenLiu98/COMM/blob/main/images/overall.png" width="740px">
 </div>
 
-**COMM**, an MLLM designed to integrate the visual embeddings of CLIP and DINOv2 with Multi-level features Merging for enhancing the visual capabilities of multi-modal large language model.
+**COMM**, an MLLM designed to integrate the visual embeddings of **C**LIP and DIN**O**v2 with **M**ulti-level features **M**erging for enhancing the visual capabilities of multi-modal large language model.
