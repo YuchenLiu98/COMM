@@ -15,12 +15,15 @@ The PyTorch implementation of paper From CLIP to DINO: Visual Encoders Shout in 
 <div align=center>
 <img src="https://github.com/YuchenLiu98/COMM/blob/main/images/spot.png" width="540px">
 </div>
+<br />
 <div align=center>
 <img src="https://github.com/YuchenLiu98/COMM/blob/main/images/rec_case.png" width="740px">
 </div>
+<br />
 <div align=center>
 <img src="https://github.com/YuchenLiu98/COMM/blob/main/images/reg_case.png" width="740px">
 </div>
+<br />
 <div align=center>
 <img src="https://github.com/YuchenLiu98/COMM/blob/main/images/object.png" width="740px">
 </div>
