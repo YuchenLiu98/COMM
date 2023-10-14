@@ -16,7 +16,7 @@ We evaluate the model's multi-modal capabilities on five major categories of mul
 Comprehension, Referring Expression Generation, Object Hallucination Benchmark, Visual Question Answering and Image Captioning.
 Our COMM achieves SOTA performance on multiple VL tasks as follows.
 <div align=center>
-<img src="https://github.com/YuchenLiu98/COMM/blob/main/images/performance.png" width="540px">
+<img src="https://github.com/YuchenLiu98/COMM/blob/main/images/performance.png" width="740px">
 </div>
 
 ## Examples
