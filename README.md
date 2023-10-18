@@ -10,6 +10,7 @@ The PyTorch implementation of paper [From CLIP to DINO: Visual Encoders Shout in
 
 ## News
 [10/16] We released **From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models**, which is designed to integrate CLIP and DINOv2 with multi-level features merging for enhancing visual capabilities of MLLMs. Checkout the [paper](2310.08825).
+[10/18] We apologized that the paper and code are under the corporation's legal review. The code release will be delayed. Thanks for your patience!
 
 ## Performance
 We evaluate the model's multi-modal capabilities on five major categories of multi-modal tasks: Referring Expression
