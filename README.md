@@ -1,5 +1,5 @@
 ## COMM
-The PyTorch implementation of paper [From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models](https://arxiv.org/pdf/2310.08825.pdf)
+The PyTorch implementation of paper [From CLIP to DINO: Visual Encoders Shout in Multi-modal Large Language Models](https://arxiv.org/pdf/2310.08825v1.pdf)
 
 ## Overview
 <div align=center>
